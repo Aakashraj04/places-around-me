@@ -229,9 +229,6 @@ Ground.html
     </body>
 </html>
 ```
-## HTML Validator:
-
-![place validator](https://github.com/Aakashraj04/places-around-me/assets/121117266/026f5372-2bf2-465c-8675-1c130456e656)
 
 ## Output:
 Map:
@@ -257,6 +254,16 @@ Temple:
 
 Ground:
 ![ground](https://github.com/Aakashraj04/places-around-me/assets/121117266/e5a236d5-8719-49c3-b528-f35a8dd9d5e4)
+
+## Server Output:
+
+![place server output](https://github.com/Aakashraj04/places-around-me/assets/121117266/642fcb3a-6724-4678-87b7-382357d5ba4e)
+
+
+## HTML Validator:
+
+![place validator](https://github.com/Aakashraj04/places-around-me/assets/121117266/026f5372-2bf2-465c-8675-1c130456e656)
+
 
 ## Result:
 The program for implementing image map is executed successsfully.
