@@ -115,8 +115,8 @@ School.html
                 It is a private International school.The infrastructure of the campus is quite impressive.
                 The teachers are very kind and take care of each and very student.
                 They also teach other extra curricular activites such as dance, music, yoga and sports.
-                The fees structure of the school is very genuine and affordable as compared to other international primary school.
-                I thoroughly enjoyed my days while I was studying here.
+                The fees structure of the school is very genuine and affordable as compared to other
+                international primary school.I thoroughly enjoyed my days while I was studying here.
 
                 "Creativity is the key to success in the future,
                          and primary education is 
@@ -229,6 +229,9 @@ Ground.html
     </body>
 </html>
 ```
+## HTML Validator:
+
+![place validator](https://github.com/Aakashraj04/places-around-me/assets/121117266/026f5372-2bf2-465c-8675-1c130456e656)
 
 ## Output:
 Map:
@@ -237,22 +240,23 @@ Map:
 
 College:
 
+![college](https://github.com/Aakashraj04/places-around-me/assets/121117266/521344cb-7281-4ce7-9021-e5af67277ff7)
 
 
 School:
+![school](https://github.com/Aakashraj04/places-around-me/assets/121117266/706f51d5-a261-4e87-b622-d2886b37fb23)
 
 
 AOoffice:
+![AOoffice](https://github.com/Aakashraj04/places-around-me/assets/121117266/4c6d6f83-25db-4370-bce9-55227f495d7d)
 
 
 Temple:
+![temple](https://github.com/Aakashraj04/places-around-me/assets/121117266/d5e7a6db-98ff-446d-ba38-6bcc6cae5beb)
 
 
 Ground:
-
-
-
-
+![ground](https://github.com/Aakashraj04/places-around-me/assets/121117266/e5a236d5-8719-49c3-b528-f35a8dd9d5e4)
 
 ## Result:
 The program for implementing image map is executed successsfully.
