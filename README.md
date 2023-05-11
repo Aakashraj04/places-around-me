@@ -231,28 +231,28 @@ Ground.html
 ```
 
 ## Output:
-Map:
+#### Map:
 
 ![map](https://github.com/Aakashraj04/places-around-me/assets/121117266/65daaff1-0f60-4d77-99ed-fc2b9e7fd345)
 
-College:
+#### College:
 
 ![college](https://github.com/Aakashraj04/places-around-me/assets/121117266/521344cb-7281-4ce7-9021-e5af67277ff7)
 
 
-School:
+#### School:
 ![school](https://github.com/Aakashraj04/places-around-me/assets/121117266/706f51d5-a261-4e87-b622-d2886b37fb23)
 
 
-AOoffice:
+#### AOoffice:
 ![AOoffice](https://github.com/Aakashraj04/places-around-me/assets/121117266/4c6d6f83-25db-4370-bce9-55227f495d7d)
 
 
-Temple:
+#### Temple:
 ![temple](https://github.com/Aakashraj04/places-around-me/assets/121117266/d5e7a6db-98ff-446d-ba38-6bcc6cae5beb)
 
 
-Ground:
+#### Ground:
 ![ground](https://github.com/Aakashraj04/places-around-me/assets/121117266/e5a236d5-8719-49c3-b528-f35a8dd9d5e4)
 
 ## Server Output:
